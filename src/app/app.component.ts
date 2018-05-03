@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
 	styleUrls: [ './app.component.scss' ]
 })
 export class AppComponent {
-	person = 'Jaider';
+	title = 'my application';
+	author = 'Jaider Anillo';
+
+	count = 0;
+	imgSource = './../favicon.ico';
+	enabled = true;
 }
