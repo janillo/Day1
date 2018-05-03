@@ -10,6 +10,6 @@ export class AppComponent {
 	author = 'Jaider Anillo';
 
 	count = 0;
-	imgSource = './../favicon.ico';
+	imgSource = 'https://material.angular.io/assets/img/examples/shiba2.jpg';
 	enabled = true;
 }
